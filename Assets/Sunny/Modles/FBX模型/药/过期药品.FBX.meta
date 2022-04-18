@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 7c3589621aebb9f40b2a6fe20067816c
+timeCreated: 1610175763
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box015
+    100002: Capsule002
+    100004: Capsule003
+    100006: Capsule004
+    100008: Capsule005
+    100010: Capsule006
+    100012: Capsule007
+    100014: Capsule008
+    100016: Capsule009
+    100018: Capsule010
+    100020: Capsule011
+    100022: Particle View 01
+    100024: Particle View 01 1
+    100026: "\u6807\u7B7E"
+    100028: "\u836F\u7247"
+    100030: "\u836F\u7247 1"
+    100032: "\u836F\u74F6"
+    100034: "\u836F\u74F6 1"
+    100036: "\u836F\u74F62"
+    100038: //RootNode
+    400000: Box015
+    400002: Capsule002
+    400004: Capsule003
+    400006: Capsule004
+    400008: Capsule005
+    400010: Capsule006
+    400012: Capsule007
+    400014: Capsule008
+    400016: Capsule009
+    400018: Capsule010
+    400020: Capsule011
+    400022: Particle View 01
+    400024: Particle View 01 1
+    400026: "\u6807\u7B7E"
+    400028: "\u836F\u7247"
+    400030: "\u836F\u7247 1"
+    400032: "\u836F\u74F6"
+    400034: "\u836F\u74F6 1"
+    400036: "\u836F\u74F62"
+    400038: //RootNode
+    2300000: Box015
+    2300002: Capsule002
+    2300004: Capsule003
+    2300006: Capsule004
+    2300008: Capsule005
+    2300010: Capsule006
+    2300012: Capsule007
+    2300014: Capsule008
+    2300016: Capsule009
+    2300018: Capsule010
+    2300020: Capsule011
+    2300022: "\u6807\u7B7E"
+    2300024: "\u836F\u7247 1"
+    2300026: "\u836F\u74F6 1"
+    2300028: "\u836F\u74F62"
+    3300000: Box015
+    3300002: Capsule002
+    3300004: Capsule003
+    3300006: Capsule004
+    3300008: Capsule005
+    3300010: Capsule006
+    3300012: Capsule007
+    3300014: Capsule008
+    3300016: Capsule009
+    3300018: Capsule010
+    3300020: Capsule011
+    3300022: "\u6807\u7B7E"
+    3300024: "\u836F\u7247 1"
+    3300026: "\u836F\u74F6 1"
+    3300028: "\u836F\u74F62"
+    4300000: "\u836F\u74F62"
+    4300002: "\u836F\u74F6"
+    4300004: "\u6807\u7B7E"
+    4300006: Capsule011
+    4300008: Capsule009
+    4300010: Capsule010
+    4300012: Capsule005
+    4300014: Capsule003
+    4300016: Capsule007
+    4300018: Capsule008
+    4300020: Capsule002
+    4300022: Capsule006
+    4300024: Capsule004
+    4300026: "\u836F\u7247"
+    4300028: Box015
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

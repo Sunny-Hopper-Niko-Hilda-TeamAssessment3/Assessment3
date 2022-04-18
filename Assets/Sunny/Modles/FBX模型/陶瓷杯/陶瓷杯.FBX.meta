@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: a5d3be02ecc4dd040adb624388cda496
+timeCreated: 1610175767
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Line09
+    100002: Line11
+    100004: Obj3d66-448716-7-704
+    100006: Obj3d66-448716-7-704(CV Curve 01)
+    100008: Obj3d66-448716-7-704(CV Curve 19)
+    100010: Obj3d66-448716-7-704(CV Curve 20)
+    100012: Obj3d66-448716-7-704(CV Curve 21)
+    100014: Obj3d66-448716-7-704(CV Curve 22)
+    100016: Obj3d66-448716-7-704(CV Curve 23)
+    100018: Obj3d66-448716-7-704(CV Curve 24)
+    100020: Obj3d66-448716-7-704(CV Curve 25)
+    100022: Obj3d66-448716-7-704(U Loft Surf 04)
+    100024: Obj3d66-448716-8-303
+    100026: Obj3d66-448716-9-129
+    100028: //RootNode
+    400000: Line09
+    400002: Line11
+    400004: Obj3d66-448716-7-704
+    400006: Obj3d66-448716-7-704(CV Curve 01)
+    400008: Obj3d66-448716-7-704(CV Curve 19)
+    400010: Obj3d66-448716-7-704(CV Curve 20)
+    400012: Obj3d66-448716-7-704(CV Curve 21)
+    400014: Obj3d66-448716-7-704(CV Curve 22)
+    400016: Obj3d66-448716-7-704(CV Curve 23)
+    400018: Obj3d66-448716-7-704(CV Curve 24)
+    400020: Obj3d66-448716-7-704(CV Curve 25)
+    400022: Obj3d66-448716-7-704(U Loft Surf 04)
+    400024: Obj3d66-448716-8-303
+    400026: Obj3d66-448716-9-129
+    400028: //RootNode
+    2300000: Obj3d66-448716-8-303
+    2300002: Obj3d66-448716-9-129
+    3300000: Obj3d66-448716-8-303
+    3300002: Obj3d66-448716-9-129
+    4300000: Obj3d66-448716-8-303
+    4300002: Obj3d66-448716-9-129
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
