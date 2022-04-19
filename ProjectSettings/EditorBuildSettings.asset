@@ -9,30 +9,30 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuScene.unity
     guid: 6cf1b558928cbcb478f5b87e93f0671e
   - enabled: 1
-    path: Assets/Scenes/Hilda.unity
+    path: Assets/Hilda/Scenes/Hilda.unity
     guid: 7b1b722c9f9ee1a4e90ea49e57f5ba9d
   - enabled: 1
-    path: Assets/Scenes/Hopper.unity
+    path: Assets/Hopper/Scenes/Hopper.unity
     guid: c8e5fcbe47e01764d8788ab7e9281562
   - enabled: 1
-    path: Assets/Scenes/NavigationScene.unity
+    path: Assets/Hopper/Scenes/NavigationScene.unity
     guid: f7d9eb8322cc31f43abff6dd72ed7219
   - enabled: 1
-    path: Assets/Scenes/Help.unity
+    path: Assets/Hopper/Scenes/Help.unity
     guid: b321205d777c8a040a6bc37f7f3ad81d
   - enabled: 1
-    path: Assets/Scenes/Sunny.unity
+    path: Assets/Sunny/Scenes/Sunny.unity
     guid: dcd170cf94be63c48bd7d78c91463764
   - enabled: 1
-    path: Assets/Scenes/GameMain.unity
+    path: Assets/Sunny/Scenes/GameMain.unity
     guid: 5669994f922672c4fb95c776d09f7d60
   - enabled: 1
-    path: Assets/Scenes/NikoScene.unity
+    path: Assets/Niko/Scenes/NikoScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Niko.unity
+    path: Assets/Niko/Scenes/Niko.unity
     guid: 16cb6ce097d6eb94f8f1c10d551b10b9
   - enabled: 1
-    path: Assets/Scenes/HildaScene.unity
+    path: Assets/Hilda/Scenes/HildaScene.unity
     guid: c79721470ae383c41971c41f5c6a5a45
   m_configObjects: {}
